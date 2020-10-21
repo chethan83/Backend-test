@@ -1,0 +1,12 @@
+----------------you need to install all dependencies -----------
+1)runserver
+2)http://localhost:8000/getFromJson/ (it will get all records from file and added it to database".
+3)you can get list of all records stored in db in "http://localhost:8000/"
+and
+4)python manage.py seed "is that command that will save 10 dummy data in db.
+if you have any question related with this please let me know!.
+
+pip install -r requirements.txt " this will install all requirements..
+
+
+you can deploy your project to heroku easily by simply going to first "upload it to github" then to heroku.. this will helps you "Medium.com qazi how to upload django app to heroku"
