@@ -9,4 +9,3 @@ if you have any question related with this please let me know!.
 pip install -r requirements.txt " this will install all requirements..
 
 
-you can deploy your project to heroku easily by simply going to first "upload it to github" then to heroku.. this will helps you "Medium.com qazi how to upload django app to heroku"
